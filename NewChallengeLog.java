@@ -4,6 +4,6 @@
 
 //8/17 remo confusing take another hacker rank but then try to test on site. learned about python lambda functions.
 
-//8/18 August Circuit start
+//8/18 August Circuit start - slow solution for first problem gets me to 60/100, need to figure out how to optimize in java
 
 //8/20 coding challenge that was too easy/basic
