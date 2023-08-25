@@ -4,6 +4,6 @@
 
 //8/17 remo confusing take another hacker rank but then try to test on site. learned about python lambda functions.
 
-//8/18 August Circuit start - slow solution for first problem gets me to 60/100, need to figure out how to optimize in java. adjusted and got 100!
+//8/18 August Circuit start - slow solution for first problem gets me to 60/100, need to figure out how to optimize in java. adjusted and got 100! learned a good bit from input manipulation despite how annoying it is to spend most of each problem figuring out how to optimally extract data. For example I had issues splitting a string and comparing the values for equivalence to avoid converting them to integers. There I learned for arrays of strings, you must use .equals instead of ==.
 
 //8/20 coding challenge that was too easy/basic
