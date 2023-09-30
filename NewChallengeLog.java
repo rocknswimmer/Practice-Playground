@@ -8,4 +8,4 @@
 
 //8/20 coding challenge that was too easy/basic
 
-//9/30 react coding challenge, could not compare my solution to their tests, but as far as I can tell I found solutions to all react questions, finished 30 minutes early but not sure if thats what effiecency means for evaluations.
+//9/30 react coding challenge, could not compare my solution to their tests, but as far as I can tell I found solutions to all react challenges. finished 30 minutes early but not sure if thats what effiecency means for evaluations or efficent enough. Not sure if I should have put the todo component inside of a list item or not, made considerations for it while coding, but then noticed the built component and just mapped returning those.
