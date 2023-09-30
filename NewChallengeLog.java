@@ -7,3 +7,5 @@
 //8/18 August Circuit start - slow solution for first problem gets me to 60/100, need to figure out how to optimize in java. adjusted and got 100! learned a good bit from input manipulation despite how annoying it is to spend most of each problem figuring out how to optimally extract data. For example I had issues splitting a string and comparing the values for equivalence to avoid converting them to integers. There I learned for arrays of strings, you must use .equals instead of ==.
 
 //8/20 coding challenge that was too easy/basic
+
+//9/30 react coding challenge, could not compare my solution to their tests, but as far as I can tell I found solutions to all react questions, finished 30 minutes early but not sure if thats what effiecency means for evaluations.
