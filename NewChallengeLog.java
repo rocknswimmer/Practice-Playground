@@ -13,3 +13,4 @@
 //10/2 decided to retake linkedIn's react multiple choice assessment and only know I did better than 64% of takers, not my score out of 15. I'm not sure which site offers less useful assessments since indeed just gives you a range and most of the time a hitting 50% of the range makes you "proficient". LinkedIn is too restrictive with the assessments score range needing to be in a top 30% , which could exclude proficient users who scored 14/15 where as an equivalent 8/15 on an indeed assessment could make you "proficeint" making less skilled applicants look falsely skillful. I would prefer a system combining indeed choice to show any skills test results, with a clearer, stricter "skills limit" linkedIn like to use therefore working around linkedIn's exclutionary practices.
 
 //10/6-7 similar general aptitude tests for two different companies, second one seemed a bit more my style
+
