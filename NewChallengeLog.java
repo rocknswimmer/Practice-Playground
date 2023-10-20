@@ -15,3 +15,5 @@
 //10/6-7 similar general aptitude tests for two different companies, second one seemed a bit more my style
 
 //10/17 human generated data assessment, had to assess AI responsed and write a human generated story
+
+//10/20 team building
