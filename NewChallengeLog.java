@@ -17,3 +17,5 @@
 //10/17 human generated data assessment, had to assess AI responsed and write a human generated story
 
 //10/20 team building
+
+//10/23 october circuits
