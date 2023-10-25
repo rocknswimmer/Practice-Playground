@@ -18,4 +18,4 @@
 
 //10/20 team building
 
-//10/23 october circuits -
+//10/23 october circuits - TBD
