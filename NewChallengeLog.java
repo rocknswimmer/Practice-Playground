@@ -18,4 +18,4 @@
 
 //10/20 team building
 
-//10/23 october circuits - TBD
+//10/23 october circuits - TBD change < k to <= k and go from 0 to 100
