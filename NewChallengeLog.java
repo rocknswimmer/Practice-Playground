@@ -19,3 +19,5 @@
 //10/20 team building
 
 //10/23 october circuits - TBD change < k to <= k and go from 0 to 100
+
+//11/1 panel, Electrical management systems and Scada important technology/missed research prep
