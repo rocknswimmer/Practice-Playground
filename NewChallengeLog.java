@@ -25,3 +25,5 @@
 //11/2 market research shows not all fotune 500s seek to underpay in atlanta.
 
 //11/5 HE select - 2 hours for 10 points, shouldn't have struggled as much with recurtion, so need to practice, Bananas difficulty scale starting at a leet code hard for the "easy".
+
+//11/7 appreciating 33
