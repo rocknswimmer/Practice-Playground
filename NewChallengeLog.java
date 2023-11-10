@@ -27,5 +27,3 @@
 //11/5 HE select - 2 hours for 10 points, shouldn't have struggled as much with recurtion, so need to practice, Bananas difficulty scale starting at a leet code hard for the "easy".
 
 //11/7 appreciating 33
-
-//11/9 trying to understand how I dont have the skills for a zero level postion with my skills listed
