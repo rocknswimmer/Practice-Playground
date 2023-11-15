@@ -29,3 +29,5 @@
 //11/7 appreciating 33
 
 //11/10 got partial solutions/ ran out of time to optimize to pass all tests
+
+//11/15 top 5% of 1.3mill for front end developer skills assessment on linkedin
