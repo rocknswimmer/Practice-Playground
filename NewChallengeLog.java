@@ -31,3 +31,5 @@
 //11/10 got partial solutions/ ran out of time to optimize to pass all tests
 
 //11/15 top 5% of 1.3mill for front end developer skills assessment on linkedin
+
+//11/17 nov circuits, off to a great start with confusing asks and examples that don't clear up easily confusing directions.
