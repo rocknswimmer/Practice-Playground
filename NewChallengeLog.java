@@ -37,3 +37,4 @@
 //11/24 late js solution to problem I reviewed
 
 //12/14 review/prep for jp take 2
+//12/15 bit stuck string manipulation in python on first problem but passed all tests, got 8/13 on second for time but put optimized solution I came up with in last 5 minutes in comments at the end 2% more familiarity with python and I could have probably attempted the refactoring.
