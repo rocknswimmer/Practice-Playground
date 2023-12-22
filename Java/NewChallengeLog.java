@@ -39,4 +39,5 @@
 //12/14 review/prep for jp take 2
 //12/15 bit stuck string manipulation in python on first problem but passed all tests, got 8/13 on second for time but put optimized solution I came up with in last 5 minutes in comments at the end 2% more familiarity with python and I could have probably attempted the refactoring.
 
-//12/16 dec circuits, two potential solutions after reviewing first set, 20 points, need optimaization. The inputs this circuits ... just wow.
+//12/16 dec circuits, two potential solutions after reviewing first set, 20 points, need optimaization. The inputs this circuits ... just wow, had to download the sample input to even be able to fully copy the 1000 line example input to help figure out the problem
+
