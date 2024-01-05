@@ -42,3 +42,5 @@
 //12/16 dec circuits, two potential solutions after reviewing first set, 20 points, need optimaization. The inputs this circuits ... just wow, had to download the sample input to even be able to fully copy the 1000 line example input to help figure out the problem, inspite of the poor inputs and the time running out an hour earlier due to daylight savings, I scored 40 points on a second tier question 15 minutes late
 
 // end 2023
+
+//1/5 easy?
