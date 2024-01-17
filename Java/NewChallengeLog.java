@@ -46,3 +46,5 @@
 //1/5 easy?
 
 //1/10 screen/late TehBS belittles applicants durring interviews, seemed like a scam until the tech vocabulary section, then just felt like dealing with a close minded gate keeper.
+
+//1/17 data structures linkedin learning practice with java data structures
