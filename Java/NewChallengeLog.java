@@ -49,4 +49,4 @@
 
 //1/17 data structures linkedin learning practice with java data structures
 
-//1/19 node.js assessment, learned a bit too late where the imports were, and the environment information mislead me. got 20 pages with 10 results per, just needed time to perform the ask with that data.
+//1/19 node.js assessment, learned a bit too late where the imports were, and the environment information mislead me. got 20 pages with 10 results per, just needed time to perform the ask with that data. debugged a similar solution saved in relay mvp to ensure I can handle what was asked.
