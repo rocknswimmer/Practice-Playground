@@ -54,3 +54,5 @@
 //1/19 second attempt allowed, nailed it thanks to the debugging previously saving time to debug informatoin manipulation issues once information was filtered. learned Number cannot handle ,s
 
 //1/21 solo!
+
+// tech prep
