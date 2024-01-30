@@ -60,3 +60,5 @@
 //1/24 11
 
 //1/29 tech review
+
+//1/30 tried countering experience based rejection, low chance it pays off for current role.
