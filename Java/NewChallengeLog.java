@@ -62,3 +62,5 @@
 //1/29 tech review
 
 //1/30 tried countering experience based rejection, low chance it pays off for current role.
+
+//1/31 research to aviod sunk cost
