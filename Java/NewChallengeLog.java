@@ -66,3 +66,5 @@
 //1/31 research to aviod sunk cost
 
 //2/1 fair
+
+//2/5 assessed a form designed by a staffing company, annoyingly no swe
