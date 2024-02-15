@@ -70,3 +70,5 @@
 //2/5 assessed a form designed by a staffing company, annoyingly no swe
 
 //2/6 math heavy screening was nice to see how well that information was stored in my brain and how well google helps with the gaps after lack of use of geometry vocabulary.
+
+//2/15 got sleep but just added the date when correcting the date so not mentally a good place to code in
