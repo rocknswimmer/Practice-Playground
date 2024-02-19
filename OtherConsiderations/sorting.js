@@ -19,7 +19,8 @@ const sortThem =  (people, places) => {
 
     let randomInd = Math.floor(Math.random() * remaining.length);
 
-    let randomPlace = remaining[randomInd];// this is the part that will need research for better than math.random
+    let randomPlace = remaining[randomInd]; // should be good enough with restricted pools, will need to ensure restrictions are unbaised
+
     remaining.splice(randomInd, 1)
 
     return [person, randomPlace];
