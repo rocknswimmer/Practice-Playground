@@ -74,3 +74,5 @@
 //2/15 got sleep but just added the date when correcting the date so not mentally a good place to code in
 
 //2/25 researched php and attempting to set up environment
+
+//3/3 research
