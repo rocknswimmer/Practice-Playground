@@ -76,3 +76,5 @@
 //2/25 researched php and attempting to set up environment
 
 //3/3 research
+
+//3/4 open about lack of java skills and crushed the technical part, well see ...
