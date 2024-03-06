@@ -78,3 +78,5 @@
 //3/3 research
 
 //3/4 open about lack of java skills and crushed the technical part, well see ...
+
+//3/6 resettling/rethinking
