@@ -86,3 +86,5 @@
 //3/13 iec open house
 
 //3/15 resume killer/ inception
+
+//3/18 SQL assessment
