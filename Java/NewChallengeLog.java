@@ -93,3 +93,4 @@
 
 //3/28 IEC Fair
 
+//4/1 AWS New Free tier created to cut costs after 12 month free trials expired, ready to create a new instance and redeploy
