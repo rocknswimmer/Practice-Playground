@@ -96,3 +96,5 @@
 //4/1 AWS New Free tier created to cut costs after 12 month free trials expired, ready to create a new instance and redeploy
 
 //4/3 after some delays, have new instance up and running with my one front end only project, time to get postgres on my new instance
+
+//4/4 ios int prep
