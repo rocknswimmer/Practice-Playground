@@ -102,3 +102,5 @@
 //4/10 Got two old projects to work together for an image for my portfolio
 
 //4/14 PM practice
+
+//4/16 portfolio deployed
