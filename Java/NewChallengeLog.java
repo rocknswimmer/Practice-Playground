@@ -104,3 +104,5 @@
 //4/14 PM practice
 
 //4/16 portfolio deployed
+
+//4/17 70 minutes wasted to wind up with an interview with chat gpt I hope "AI" becomes illegal to use like this. such a waste
