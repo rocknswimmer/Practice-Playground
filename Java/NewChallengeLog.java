@@ -106,3 +106,5 @@
 //4/16 portfolio deployed
 
 //4/17 70 minutes wasted to wind up with an interview with chat gpt I hope "AI" becomes illegal to use like this. such a waste
+
+//4/22 ETL of final relay data as I close down the instance
