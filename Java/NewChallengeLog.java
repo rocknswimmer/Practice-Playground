@@ -110,3 +110,5 @@
 //4/22 ETL of final relay data as I close down the instance
 
 //4/24 int prep
+
+//4/26 .net course prebuilt blazor app playground, comparing use of parameter to useState and props for component information.
