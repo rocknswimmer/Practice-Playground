@@ -1,0 +1,1 @@
+//5/1/24 leveling up while exploring the different paths started with algorithms path, and am getting familiar with how the site works. a bit more intro before the clash yest would have helped, but I came close and now know that muscle has gotten weak.
