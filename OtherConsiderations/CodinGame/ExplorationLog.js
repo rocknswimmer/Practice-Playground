@@ -5,3 +5,5 @@
 //5/3 ran a few more clashes for int prep/ calm nerves not sure if just getting easier ones, or if the muscle is starting to strengthen the following is the most rediculous fewest bits clash code, tells how many socks needed to guaruntee a matching pair, print(+readline()+1)
 
 //5/5 imporved old golfs with what I have learned to climb rankings, still want to know the super tricks for halving my code again
+
+//5/5 Reduce the key to js golf? check moveRobotGolf.py
