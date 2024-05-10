@@ -7,3 +7,5 @@
 //5/5 imporved old golfs with what I have learned to climb rankings, still want to know the super tricks for halving my code again
 
 //5/5 Reduce the key to js golf? check moveRobotGolf.py
+
+//5/10 landed everywhere but highground
