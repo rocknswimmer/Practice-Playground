@@ -9,3 +9,4 @@
 //5/5 Reduce the key to js golf? check moveRobotGolf.py
 
 //5/10 landed everywhere but highground
+//5/11 reached disiple level/ top 10000
