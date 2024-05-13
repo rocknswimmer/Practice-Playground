@@ -10,3 +10,4 @@
 
 //5/10 landed everywhere but highground
 //5/11 reached disiple level/ top 10000
+//5/12 broke top 1000 in clash, so finished 3 challenges the last 500 pointer jumped me from lvl 10 to 12
