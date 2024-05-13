@@ -114,3 +114,6 @@
 //4/26 .net course prebuilt blazor app playground, comparing use of parameter to useState and props for component information.
 
 //4/29 java runtime question on applcation, hardest part was getting the slice to work, since it wasn't written to work.
+
+
+//5/13 window and int prep
