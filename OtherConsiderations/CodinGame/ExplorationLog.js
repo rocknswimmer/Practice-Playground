@@ -14,3 +14,5 @@
 //5/14 post interview clashing to destress robot lab maker solution made after finding a second bot puzzle
 
 //5/15 bot4life to bronze league, not as many points as I would hope, but needed 2 bronze
+
+//5/17 more clash, though I may be done soon
