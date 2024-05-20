@@ -17,3 +17,4 @@
 
 //5/17 more clash, though I may be done soon
 
+//5/20 decompress after anxiety filled weekend with some clash
