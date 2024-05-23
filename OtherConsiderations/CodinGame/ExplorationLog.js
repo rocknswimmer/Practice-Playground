@@ -20,3 +20,5 @@
 //5/20 decompress after anxiety filled weekend with some clash
 
 //5/21 won js reverse event
+
+//5/23 just had an event clash with double spaced separation. if you split a double space on a single space you get a lot of empty strings included in the array in js at least. Not sure if I missed double space instructions, but it was also a reverse clash where you have to figure out the problem you are solving, so no instructions like input is double space separated.
