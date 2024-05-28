@@ -1,1 +1,1 @@
-// 5/28 learning basics like comments the same as Java based languages
+// 5/28 learning basics like comments the same as Java based languages, var implies type, not sure if should be used though, lesson still recomends using type to help with intention
