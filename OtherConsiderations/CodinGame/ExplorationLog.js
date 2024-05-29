@@ -25,3 +25,4 @@
 
 //5/24 beat some zombies, not sure why my distance doesn't seem to be calculating right, but get enough of a score for the challenge
 
+//5/29 solved community event Snail Run
