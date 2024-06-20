@@ -38,5 +38,5 @@
 //6/11 fiver event first league cleared
 
 
-//6/19 Bronze league/ four different games!!!
+//6/19 Bronze league/ four different games!!! Took a look and decided to focus on diving event because you can guaruntee a win. Made it to Silver league!!!
 
