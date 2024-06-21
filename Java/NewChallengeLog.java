@@ -119,3 +119,5 @@
 //5/13 window and int prep
 
 //5/30 QA wolf take home, didn't know getting info from a page would be so different. Great practice troubleshooting and learning
+
+//6/21 another challenge ruined with a lazy inhumane video record answer at the end
