@@ -6,3 +6,5 @@
 //6/6 First clash event in c# took way long due to looking up alot of basics, but got a 100% solution
 
 //6/12 creating objects and learning about the various classes in the .net library
+
+//6/26 boring bool basics
