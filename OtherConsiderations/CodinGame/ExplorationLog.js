@@ -41,3 +41,4 @@
 //6/19 Bronze league/ four different games!!! Took a look and decided to focus on diving event because you can guaruntee a win. Made it to Silver league!!!
 
 //6/21 getting a score with all mini games at least silvered, so not in the middle of silver league
+
