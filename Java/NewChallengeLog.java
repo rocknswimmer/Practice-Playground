@@ -121,3 +121,5 @@
 //5/30 QA wolf take home, didn't know getting info from a page would be so different. Great practice troubleshooting and learning
 
 //6/21 another challenge ruined with a lazy inhumane video record answer at the end
+
+//6/28 classic behavioral cognitive screen, was a bit slower on the cognitve than I have been
