@@ -123,3 +123,5 @@
 //6/21 another challenge ruined with a lazy inhumane video record answer at the end
 
 //6/28 classic behavioral cognitive screen, was a bit slower on the cognitve than I have been
+
+//7/1 SQL phone int on bad shared wifi. got 5/7 strongly with 1 pretty good slower answer and 1 rough googled one, low hopes be never know.
