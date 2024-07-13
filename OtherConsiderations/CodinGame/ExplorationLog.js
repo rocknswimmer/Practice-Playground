@@ -45,3 +45,5 @@
 //7/8 clash event, more languages being tracked
 
 //7/11 learned sum of 2^0+...2^(n-1) = (2^n ) - 1
+
+//7/13 just learned that -0 exists in programing, not sure how I have not encountered this before
