@@ -48,4 +48,4 @@
 
 //7/13 just learned that -0 exists in programing, not sure how I have not encountered this before
 
-
+//7/17 jumped all the way back from 500s to 300s still haven't broken into the top 300
