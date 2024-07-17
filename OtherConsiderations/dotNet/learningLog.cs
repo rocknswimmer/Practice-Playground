@@ -8,3 +8,5 @@
 //6/12 creating objects and learning about the various classes in the .net library
 
 //6/26 boring bool basics
+
+//7/17 back at it learning arrays and readable code conventions
