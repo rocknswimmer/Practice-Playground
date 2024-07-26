@@ -55,3 +55,4 @@
 //7/22 new clash event, tripped up in java need to use .equals instead of == for string comparisoin to work
 
 //7/23 solved a groovy reverse, translated groovy for the first time in less than 11 minutes
+
