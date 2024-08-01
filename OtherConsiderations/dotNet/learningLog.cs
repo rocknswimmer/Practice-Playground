@@ -12,3 +12,4 @@
 //7/17 back at it learning arrays and readable code conventions
 
 //7/30 guided and challenge projects finished section
+
