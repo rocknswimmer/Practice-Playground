@@ -127,3 +127,5 @@
 //7/1 SQL phone int on bad shared wifi. got 5/7 strongly with 1 pretty good slower answer and 1 rough googled one, low hopes be never know.
 
 //7/2 matrix rotation and decription questions passed visible tests, probs should have made more robust.
+
+//8/15 ab testing
