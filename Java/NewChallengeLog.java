@@ -129,3 +129,5 @@
 //7/2 matrix rotation and decription questions passed visible tests, probs should have made more robust.
 
 //8/15 ab testing
+
+//8/17 was going to look at my portfolio and update my site tracking, discovered that my photo hosting site was down. Took a little bit of trouble to get new image hosting up and running then had to update all deployed demos.
