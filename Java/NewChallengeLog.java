@@ -131,3 +131,5 @@
 //8/15 ab testing
 
 //8/17 was going to look at my portfolio and update my site tracking, discovered that my photo hosting site was down. Took a little bit of trouble to get new image hosting up and running then had to update all deployed demos.
+
+//9/5 IBM hacker rank, ran out of time optimizing and trouble shooting. had partial/ineffiecent solutions to both problems just ran out of time. Hoping my second question is submitted for me at the time out point, though I doubt it matters either way. significantly harder than most assessments I have taken even though it is for an entry level.
