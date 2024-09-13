@@ -135,3 +135,5 @@
 //9/5 IBM hacker rank, ran out of time optimizing and trouble shooting. had partial/ineffiecent solutions to both problems just ran out of time. Hoping my second question is submitted for me at the time out point, though I doubt it matters either way. significantly harder than most assessments I have taken even though it is for an entry level.
 
 //9/8 more difficult than estimated even with everything done before/ partially because of what has been done before.
+
+//9/13 fighting brain fog to compelte page rating assessment
