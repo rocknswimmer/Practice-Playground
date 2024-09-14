@@ -58,3 +58,4 @@
 
 //8/19 clash event, factorials over 500 in js go in infinity without solution
 
+//9/14 reviewed solutions for weekly puzzle
