@@ -12,3 +12,5 @@
 //7/17 back at it learning arrays and readable code conventions
 
 //7/30 guided and challenge projects finished section
+
+//9/18 picked back up after prioritizing keeping skills sharp vs learning slightly different syntax, prep for .net need
