@@ -61,3 +61,5 @@
 //9/14 reviewed solutions for weekly puzzle
 
 //9/17 clash event, got an error on second test with 10 sseconds to go, but seemed to have passed every other test. def a case where I wish you could stay in the IDE after a clash to learn.
+
+//9/20 was passing all tests on c# reverse, on submit however something is different. This is my biggest issue with clash is the in ability to find out what changed from before and after submitting. Can insure all possibile edge cases are tested before and after submitting if you make sure all edge cases are covered in the before submit tests. With revese it is extra had because I was trying to figure out what was wanted from a bunch of input output statements.
