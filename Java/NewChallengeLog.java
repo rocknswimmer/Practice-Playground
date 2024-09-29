@@ -137,3 +137,5 @@
 //9/8 more difficult than estimated even with everything done before/ partially because of what has been done before.
 
 //9/13 fighting brain fog to compelte page rating assessment
+
+//9/29 final prep and checks for 2024 relay, work only counts there if I pull to main/ deploying only gets recongnized on aws
