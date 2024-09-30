@@ -141,3 +141,4 @@
 //9/29 final prep and checks for 2024 relay, work only counts there if I pull to main/ deploying only gets recongnized on aws
 
 //9/30 found an aws serverless db I had to create for a take home that was still getting charged a penny a month.
+//9/30 know the biz meeting
