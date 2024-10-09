@@ -147,5 +147,5 @@
 
 //10/5 learning from users, creating a video and multiple instructions does not mean they will be used
 
-//10/8 working on fall challenge from codin games
+//10/8 working on fall challenge from codin games, route planning is hard to explain to a computer
 
