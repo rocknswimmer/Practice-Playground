@@ -150,3 +150,5 @@
 //10/8 working on fall challenge from codin games, route planning is hard to explain to a computer
 
 //10/14 clash event
+
+//10/16 completed a code challenge with c# logic and sql, feel like I got 100%, but the first question had some potentially overlapping conditions.
