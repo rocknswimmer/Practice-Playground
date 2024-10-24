@@ -65,3 +65,4 @@
 //9/20 was passing all tests on c# reverse, on submit however something is different. This is my biggest issue with clash is the in ability to find out what changed from before and after submitting. Can insure all possibile edge cases are tested before and after submitting if you make sure all edge cases are covered in the before submit tests. With revese it is extra had because I was trying to figure out what was wanted from a bunch of input output statements.
 
 
+
