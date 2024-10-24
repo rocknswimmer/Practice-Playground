@@ -14,3 +14,5 @@
 //7/30 guided and challenge projects finished section
 
 //9/18 picked back up after prioritizing keeping skills sharp vs learning slightly different syntax, prep for .net need
+
+//10/24 data type choices are more complex in typed langs
