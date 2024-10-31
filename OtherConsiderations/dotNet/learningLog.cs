@@ -16,3 +16,5 @@
 //9/18 picked back up after prioritizing keeping skills sharp vs learning slightly different syntax, prep for .net need
 
 //10/24 data type choices are more complex in typed langs
+
+//10/31 string methods
