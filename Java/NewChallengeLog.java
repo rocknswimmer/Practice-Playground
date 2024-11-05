@@ -154,3 +154,5 @@
 //10/16 completed a code challenge with c# logic and sql, feel like I got 100%, but the first question had some potentially overlapping conditions.
 
 //10/25 copying primes into an array caught up with me was starting isPrime loop at 1 instead of 2. got there in the end
+
+//11/5 sql and string manipulation , timed out on one string ? but lost time due to hidden insturction to splice a test key into my solution.
