@@ -156,3 +156,4 @@
 //10/25 copying primes into an array caught up with me was starting isPrime loop at 1 instead of 2. got there in the end
 
 //11/5 sql and string manipulation , timed out on one string ? but lost time due to hidden insturction to splice a test key into my solution.
+
