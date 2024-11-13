@@ -18,3 +18,5 @@
 //10/24 data type choices are more complex in typed langs
 
 //10/31 string methods
+
+//11/13 method construction
