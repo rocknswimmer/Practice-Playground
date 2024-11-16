@@ -19,4 +19,4 @@
 
 //10/31 string methods
 
-//11/13 method construction
+//11/13 method construction, params
