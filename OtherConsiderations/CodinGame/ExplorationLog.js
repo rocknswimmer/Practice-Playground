@@ -66,4 +66,4 @@
 
 //11/1 c++ reverse success
 
-//
+//11/18 frequency decription
