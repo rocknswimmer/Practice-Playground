@@ -158,3 +158,5 @@
 //11/5 sql and string manipulation , timed out on one string ? but lost time due to hidden insturction to splice a test key into my solution.
 
 //11/14 launch Darkly coding games event
+
+//12/2 certificate earned
