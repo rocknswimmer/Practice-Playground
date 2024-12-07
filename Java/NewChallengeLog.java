@@ -160,3 +160,5 @@
 //11/14 launch Darkly coding games event
 
 //12/2 certificate earned
+
+//12/7 metlife hackerearth
