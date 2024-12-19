@@ -67,3 +67,5 @@
 //11/1 c++ reverse success.
 
 //11/18 frequency decription, close list does not produce needed results
+
+//12/18 checked out stream options
