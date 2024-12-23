@@ -21,4 +21,4 @@
 
 //11/13 method construction, params, petting zoo planner
 
-//11/30 debugging and exception handling and throwing
+//11/30 debugging and exception handling and throwing.
