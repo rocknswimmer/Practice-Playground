@@ -165,3 +165,5 @@
 //12/7 metlife hackerearth
 
 //12/21 another challenge that shows the unusibility of HackerEarth IDE
+
+//12/27 Idk why I keep doing HE challenges, pseudo code questions all had compilation error as a option, which pseudo code should throw a compliation error if done correctly because psuedo code should not and did not follow syntax like using = or ;. On top of that the comments on the psudoe code did that exact opposite of what is written. The tests cases that cannot be worked out on paper to help check understanding of the directions also still exist.
