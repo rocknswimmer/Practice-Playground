@@ -69,3 +69,5 @@
 //11/18 frequency decription, close list does not produce needed results
 
 //12/18 checked out stream options.
+
+//12/28 winter challenge league promotion
