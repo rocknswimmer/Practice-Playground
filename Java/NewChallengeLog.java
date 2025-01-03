@@ -167,3 +167,5 @@
 //12/21 another challenge that shows the unusibility of HackerEarth IDE
 
 //12/27 Idk why I keep doing HE challenges, pseudo code questions all had compilation error as a option, which pseudo code should throw a compliation error if done correctly because psuedo code should not and did not follow syntax like using = or ;. On top of that the comments on the psudoe code did that exact opposite of what is written. The tests cases that cannot be worked out on paper to help check understanding of the directions also still exist.
+
+//1/3 sent same challenge I have already taken, gotta love how unorganized everyone is. Emails saying if you already took and assessment don't do it again because our system can keep track, but we cannot connect that to our recruiters to know if they are wasting time and resources.
