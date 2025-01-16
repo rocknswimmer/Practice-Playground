@@ -171,3 +171,5 @@
 //1/3 sent same challenge I have already taken, gotta love how unorganized everyone is. Emails saying if you already took and assessment don't do it again because our system can keep track, but we cannot connect that to our recruiters to know if they are wasting time and resources.
 
 //1/14 more insight into what I would be doing
+
+//1/16 suprise night shift
