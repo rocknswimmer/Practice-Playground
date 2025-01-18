@@ -173,3 +173,5 @@
 //1/14 more insight into what I would be doing
 
 //1/16 suprise night shift.
+
+//1/18 planning
