@@ -176,4 +176,4 @@
 
 //1/18 planning.
 
-//2/20 learned some php on the fly  in an 'open notes' assessment
+//2/20 learned some php on the fly  in an 'open notes' assessment.
