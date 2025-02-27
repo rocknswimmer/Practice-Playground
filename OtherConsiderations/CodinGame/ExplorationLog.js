@@ -75,3 +75,5 @@
 //1/13 clash event.
 
 //1/16 win
+
+//2/27 clash check
