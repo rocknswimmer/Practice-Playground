@@ -76,4 +76,4 @@
 
 //1/16 win
 
-//2/27 clash check.
+//2/27 clash check
