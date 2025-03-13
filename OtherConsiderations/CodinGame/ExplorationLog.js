@@ -78,4 +78,4 @@
 
 //2/27 clash check
 
-//3/6 event puzzle manchala.
+//3/6 event puzzle manchala
