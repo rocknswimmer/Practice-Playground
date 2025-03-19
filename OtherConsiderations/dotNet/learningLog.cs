@@ -26,3 +26,5 @@
 //3/10 pre course.
 
 //3/17 syntax
+
+//3/19 methods
