@@ -75,4 +75,4 @@
 
 //5/1 stretch goals
 
-//5/5 docker/sql install day
+//5/5 docker/sql install day /system update and repairing environment to work again
