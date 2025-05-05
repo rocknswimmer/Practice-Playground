@@ -74,3 +74,5 @@
 //4/29 TI
 
 //5/1 stretch goals
+
+//5/5 docker/sql install day
