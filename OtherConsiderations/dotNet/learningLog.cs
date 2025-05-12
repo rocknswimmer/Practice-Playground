@@ -77,4 +77,4 @@
 
 //5/5 docker/sql install day /system update and repairing environment to work again
 
-//5/6 mysql.
+//5/6 mysql
