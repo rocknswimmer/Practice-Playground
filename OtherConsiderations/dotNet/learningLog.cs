@@ -80,3 +80,5 @@
 //5/6 mysql
 
 //5/13 jdbc
+
+//5/14 cors and stuff
